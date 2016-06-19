@@ -1,2 +1,5 @@
 # hello-world
-hello world repository
+
+Hi there! I am just setting up GitHub
+
+-C
